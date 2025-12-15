@@ -6,7 +6,7 @@ module DigitalCircuitsHs
   , bitComparator
   ) where
 
-import LogicGatesHs
+import LogicalGatesHs
 
 halfAdder :: Signal -> Signal -> (Signal, Signal)
 halfAdder x y =
