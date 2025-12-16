@@ -1,4 +1,4 @@
-module LogicGatesHs
+module LogicalGatesHs
   ( Signal
   , andGate
   , orGate

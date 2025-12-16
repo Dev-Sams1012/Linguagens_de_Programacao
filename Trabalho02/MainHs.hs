@@ -1,6 +1,6 @@
 module Main where
 
-import LogicGatesHs
+import LogicalGatesHs
 import DigitalCircuitsHs
 
 
